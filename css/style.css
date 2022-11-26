@@ -6,4 +6,9 @@ h1 {
 }
 footer {
   text-align: center;
+  padding-top: 20px;
+}
+select {
+  border-radius: 5px;
+  padding: 5px 210px 5px 5px;
 }
